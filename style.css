@@ -58,13 +58,9 @@ p {
 }
 
 .footer {
-  background-color:#AFA5E1;
-  padding: 20px 480px;
+  background-color:rgb(255, 255, 255);
   width: 500px;
+  padding: 50px 500px;
   margin: 0 auto;
 }
 
-.bottom {
-  background-color: #AFA5E1;
-  padding: 50px 200px;
-}
